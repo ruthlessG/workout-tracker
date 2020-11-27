@@ -1,0 +1,128 @@
+{
+  "images" : [
+    {
+      "size" : "29x29",
+      "idiom" : "iphone",
+      "filename" : "workout29.png",
+      "scale" : "1x"
+    },
+    {
+      "size" : "29x29",
+      "idiom" : "iphone",
+      "filename" : "workout58.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "29x29",
+      "idiom" : "iphone",
+      "filename" : "workout87.png",
+      "scale" : "3x"
+    },
+    {
+      "size" : "40x40",
+      "idiom" : "iphone",
+      "filename" : "workout80.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "40x40",
+      "idiom" : "iphone",
+      "filename" : "workout120.png",
+      "scale" : "3x"
+    },
+    {
+      "size" : "57x57",
+      "idiom" : "iphone",
+      "filename" : "workout57.png",
+      "scale" : "1x"
+    },
+    {
+      "size" : "57x57",
+      "idiom" : "iphone",
+      "filename" : "workout114.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "60x60",
+      "idiom" : "iphone",
+      "filename" : "workout120-1.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "60x60",
+      "idiom" : "iphone",
+      "filename" : "workout180.png",
+      "scale" : "3x"
+    },
+    {
+      "size" : "29x29",
+      "idiom" : "ipad",
+      "filename" : "workout29-1.png",
+      "scale" : "1x"
+    },
+    {
+      "size" : "29x29",
+      "idiom" : "ipad",
+      "filename" : "workout58-1.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "40x40",
+      "idiom" : "ipad",
+      "filename" : "workout40.png",
+      "scale" : "1x"
+    },
+    {
+      "size" : "40x40",
+      "idiom" : "ipad",
+      "filename" : "workout80-1.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "50x50",
+      "idiom" : "ipad",
+      "filename" : "workout50.png",
+      "scale" : "1x"
+    },
+    {
+      "size" : "50x50",
+      "idiom" : "ipad",
+      "filename" : "workout100.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "72x72",
+      "idiom" : "ipad",
+      "filename" : "workout72.png",
+      "scale" : "1x"
+    },
+    {
+      "size" : "72x72",
+      "idiom" : "ipad",
+      "filename" : "workout144.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "76x76",
+      "idiom" : "ipad",
+      "filename" : "workout76.png",
+      "scale" : "1x"
+    },
+    {
+      "size" : "76x76",
+      "idiom" : "ipad",
+      "filename" : "workout152.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "83.5x83.5",
+      "idiom" : "ipad",
+      "filename" : "workout167.png",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
